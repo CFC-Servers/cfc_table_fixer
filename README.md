@@ -2,8 +2,8 @@
 Fixes all net exploits
 
 ## Usage
-Simply include the library anywhere
+Simply require the library anywhere
 
 ```lua
-include( "table_fixer" )
+require( "table_fixer" )
 ```
