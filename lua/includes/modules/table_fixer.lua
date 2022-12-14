@@ -1,2 +1,2 @@
 local fixer = table.Empty
-fixer( _G )
+fixer( debug.getregistry() )
